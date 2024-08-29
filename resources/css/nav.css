@@ -1,0 +1,11 @@
+/* resources/css/navigation.css */
+
+/* Add any custom styles here */
+.nav-links a {
+    padding: 0.5rem 1rem; /* Adjust padding as needed */
+    border-radius: 0.25rem; /* Optional: Add border radius for rounded corners */
+}
+
+.nav-links a:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Optional: Add a background on hover */
+}
